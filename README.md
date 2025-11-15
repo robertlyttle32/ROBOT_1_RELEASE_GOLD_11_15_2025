@@ -1,4 +1,3 @@
-# ROBOT_1_RELEASE_GOLD_11_15_2025
 Self-Driving Robot (mapping + navigation)
 ========================================
 
@@ -156,4 +155,3 @@ Next improvements
 - FastSLAM or Kalman filter to jointly estimate odometry + map.
 - Multi-goal planning and task scheduling.
 - Looped closure detection for map refinement.
-
